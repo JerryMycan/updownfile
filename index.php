@@ -3,7 +3,7 @@
 <html>
     <head>
         <title> Upload und Download von Dateien!</title>
-        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="style.css"/><!-- Auf CSS-Datei verweisen-->
     </head>
     <body>
         <div class="container">
